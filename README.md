@@ -18,7 +18,7 @@ This model uses 1% of the provided datasets with each line containing a csv nota
 Clone the repository:
 ```bash
 git clone https://github.com/WileQ/Neural_Network.git
-cd neural-network-mnist Neural_Network.git
+cd Neural_Network
 ```
 Run it:
 ```bash
