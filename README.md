@@ -20,7 +20,11 @@ Clone the repository:
 git clone https://github.com/WileQ/Neural_Network.git
 cd Neural_Network
 ```
+Install dependencies:
+```bash
+pip install -r requirements.txt
+```
 Run it:
 ```bash
-python neural_network.py
+python main.py
 ```
